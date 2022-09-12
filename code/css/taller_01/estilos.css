@@ -1,0 +1,15 @@
+* {
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+#subtitulo {
+    color: lightgray;
+}
+
+.subsubtitulo {
+    color: brown;
+}
