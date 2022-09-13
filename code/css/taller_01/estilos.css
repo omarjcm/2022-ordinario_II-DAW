@@ -13,3 +13,23 @@ h1 {
 .subsubtitulo {
     color: brown;
 }
+
+.uno, .dos, .tres {
+    color: aliceblue;
+}
+
+.uno {
+    font-size: 15px;
+}
+
+.dos {
+    font-size: 20px;
+}
+
+.tres {
+    font-size: 30px;
+}
+
+h3 span {
+    color: chartreuse;
+}
